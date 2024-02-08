@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Flask, PHP, SQL, Machine Learning**
 
-- 📫 How to reach me **igorcosta1410@hotmail.com**
+- 📫 How to reach me **igoor.costa@usp.br**
 
 - ⚡ Fun fact **I love working with electronics**
 <hr/>
